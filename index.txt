@@ -1,0 +1,1 @@
+<embed src="elliotWrightResume.pdf" width="826px" height="1070px" />
